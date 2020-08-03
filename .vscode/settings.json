@@ -1,0 +1,14 @@
+{
+  "[html]": {
+
+    "editor.suggest.insertMode": "replace"
+  },
+  "[css]": {
+
+    "editor.suggest.insertMode": "replace"
+  },
+  "[handlebars]": {
+  
+    "editor.suggest.insertMode": "replace"
+  }
+}
